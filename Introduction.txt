@@ -3,3 +3,5 @@ Moi,
 Minun nimi on Soumya. Olen 34 vuotta. Asun Helsingissa 5-6 vuotta
 ,mutta olen Intialainen. Minun aidenkieli on Bengalia. Kuintenkin, 
 voin puhu Hindi, Englanti ja vahan Suomea nyt.
+
+Olen git kursissa.
